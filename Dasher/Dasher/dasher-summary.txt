@@ -1,0 +1,12 @@
+Linting Swift files in current working directory
+Linting 'SplashScene.swift' (1/10)
+Linting 'AppDelegate.swift' (2/10)
+Linting 'MenuScene.swift' (3/10)
+Linting 'GameViewController.swift' (4/10)
+Linting 'Player.swift' (5/10)
+Linting 'LevelFailScene.swift' (6/10)
+Linting 'GameScene.swift' (7/10)
+Linting 'Spike.swift' (8/10)
+Linting 'Goal.swift' (9/10)
+Linting 'LevelDev.swift' (10/10)
+Done linting! Found 128 violations, 7 serious in 10 files.

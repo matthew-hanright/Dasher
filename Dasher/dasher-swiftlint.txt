@@ -1,0 +1,14 @@
+/Users/maristuser/Downloads/Dasher/Dasher/GameViewController.swift:10:33: error: Force Cast Violation: Force casts should be avoided. (force_cast)
+/Users/maristuser/Downloads/Dasher/Dasher/LevelsScene.swift:14:14: warning: Function Body Length Violation: Function body should span 40 lines or less excluding comments and whitespace: currently spans 52 lines (function_body_length)
+/Users/maristuser/Downloads/Dasher/Dasher/LevelThree.swift:5:14: warning: Function Body Length Violation: Function body should span 40 lines or less excluding comments and whitespace: currently spans 41 lines (function_body_length)
+/Users/maristuser/Downloads/Dasher/Dasher/LevelDev.swift:5:14: warning: Function Body Length Violation: Function body should span 40 lines or less excluding comments and whitespace: currently spans 41 lines (function_body_length)
+/Users/maristuser/Downloads/Dasher/Dasher/LevelOne.swift:5:14: warning: Function Body Length Violation: Function body should span 40 lines or less excluding comments and whitespace: currently spans 59 lines (function_body_length)
+/Users/maristuser/Downloads/Dasher/Dasher/MenuScene.swift:17:14: warning: Function Body Length Violation: Function body should span 40 lines or less excluding comments and whitespace: currently spans 64 lines (function_body_length)
+/Users/maristuser/Downloads/Dasher/Dasher/LevelTwo.swift:5:14: warning: Function Body Length Violation: Function body should span 40 lines or less excluding comments and whitespace: currently spans 47 lines (function_body_length)
+
+Explanation:
+I have no idea how to fix the first error, and as it is in the base swift game code,
+I am too afraid to touch it.
+As to the rest, they are length violations in the level codes.  I can’t really think
+of any way to shorten these files, and these warnings aren’t very serious, so I
+am going to ignore them.

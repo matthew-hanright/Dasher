@@ -1,0 +1,2 @@
+Linting Swift files in current working directory
+No lintable files found at path ''
